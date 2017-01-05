@@ -1,6 +1,6 @@
 # Errors
 
-Stock Symbol Search API uses the following error codes:
+Stock Search API uses the following error codes:
 
 
 Error Code | Meaning

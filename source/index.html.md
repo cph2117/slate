@@ -5,7 +5,7 @@ language_tabs:
   - shell
 
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
+  - <a href='http://stocksearchapi.com/accounts/register/'>Sign Up for a Developer Key</a>
   - <a href='https://github.com/tripit/slate'>Documentation Powered by Slate</a>
 
 includes:
@@ -20,7 +20,7 @@ Welcome to the Stock Search API! You can use our API to lookup stock symbols (ti
 
 # Authentication
 
-Stock Search uses API keys to allow access to the API. You can register a new API key by [signing up](http://chtickersearch.herokuapp.com/accounts/register/).
+Stock Search uses API keys to allow access to the API. You can register a new API key by [signing up](http://stocksearchapi.com/accounts/register/).
 
 Stock Search expects an API key to be included in all API requests to the server in a GET field:
 
